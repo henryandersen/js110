@@ -147,4 +147,5 @@ function tester(){
     document.getElementById("output").innerHTML = sleep_in(true, false);
     document.getElementById("output1").innerHTML = monkey_trouble(true, false);
     //test third method, etc
+    //
 }
