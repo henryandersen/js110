@@ -146,6 +146,10 @@ function tester(){
 
     document.getElementById("output").innerHTML = sleep_in(true, false);
     document.getElementById("output1").innerHTML = monkey_trouble(true, false);
-    //test third method, etc
-    //
+    document.getElementById("output2").innerHTML = sleep_in(true, false);
+    document.getElementById("output3").innerHTML = string_times(string,n);
+    document.getElementById("output4").innerHTML = front_times(string,n);
+    document.getElementById("output5").innerHTML = string_bits(string);
+
+
 }
